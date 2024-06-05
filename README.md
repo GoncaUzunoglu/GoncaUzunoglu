@@ -1,6 +1,16 @@
 # Hi, I’m @GoncaUzunoglu
-Hakkımda
+# Hakkımda
+
 Merhaba! Ben Gonca Uzunoğlu, veri analitiği ve biyoloji alanlarında güçlü bir geçmişe sahip, tutkulu bir veri analistiyim. Pamukkale Üniversitesi'nde Biyoloji bölümünden mezun olduktan sonra, kariyerimi veri analitiği alanında şekillendirmeye karar verdim. Bu süreçte, SQL, Python ve Power BI gibi araçları kullanarak veri toplama, temizleme, analiz ve görselleştirme konularında kapsamlı bilgi ve deneyim kazandım.
+
+## Teknik Becerilerim:
+- **Programlama Dilleri:** Python, SQL
+- **Veri Analizi ve Görselleştirme:** Power BI, Excel
+- **Veri Manipülasyonu ve Modelleme:** Pandas, NumPy, Scikit-Learn
+- **Veri Tabanı Yönetimi:** PostgreSQL
+
+## Hedeflerim:
+Veri analitiği alanında kendimi sürekli geliştirerek, bu alanda en temelden uzmanlaşmayı hedefliyorum. Ayrıca, veri bilimi projelerinde aktif rol alarak, karmaşık veri setlerinden anlamlı içgörüler çıkarmak ve bu içgörüleri karar destek süreçlerine entegre etmek istiyorum.
 
 <!---
 GoncaUzunoglu/GoncaUzunoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,6 +12,7 @@ Merhaba! Ben Gonca Uzunoğlu, veri analitiği ve biyoloji alanlarında güçlü 
 ## Teknik Becerilerim:
 - Python
 - PostgreSQL
+- MS SQL
 - Power BI
 - Excel
 

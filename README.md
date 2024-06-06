@@ -3,7 +3,8 @@
 ## Hakkımda
 
 Merhaba! Ben Gonca Uzunoğlu, veri analitiği ve biyoloji alanlarında güçlü bir geçmişe sahip, tutkulu bir veri analistiyim. Pamukkale Üniversitesi'nde Biyoloji bölümünden mezun olduktan sonra, kariyerimi veri analitiği alanında şekillendirmeye karar verdim. Bu süreçte, SQL, Python ve Power BI gibi araçları kullanarak veri toplama, temizleme, analiz ve görselleştirme konularında kapsamlı bilgi ve deneyim kazandım.
-![png-clipart-predictive-analytics-big-data-data-analysis-prescriptive-analytics-marketing-text-logo](https://github.com/GoncaUzunoglu/NORTHWIND_SQL_ANALYSIS/assets/170716152/a7bcbfc2-0bd6-453c-b120-1783f498bff7)
+
+![A_small,_creative_image_representing_a_female_data](https://github.com/GoncaUzunoglu/NORTHWIND_SQL_ANALYSIS/assets/170716152/68635ebb-1bcf-40a7-9f50-b427a9268d36)
 
 
 ## Teknik Becerilerim:

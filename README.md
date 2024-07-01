@@ -1,11 +1,9 @@
 # Hi, I’m @GoncaUzunoglu
 
-## Hakkımda
+## About Me
 
 Aiming for a career in data analysis, I am a biology graduate with experience in various fields. I have acquired skills in data cleaning and interpretation through intensive training in MS SQL, PostgreSQL, Python, and Power BI. My work in content management for an online shopping site and as a doctor's assistant at an eye hospital has honed my work discipline. I am making a great effort to develop myself from the ground up and become a well-equipped expert in data analysis.
 
-
-![analist](https://github.com/GoncaUzunoglu/NORTHWIND_SQL_ANALYSIS/assets/170716152/00e0c46e-d563-4630-9e56-a7b24f836a68)
 
 
 
